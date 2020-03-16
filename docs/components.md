@@ -7,7 +7,7 @@ title: 업무 Components
 ## Buttons
 
 ### SWING
-![SWING BUTTON](/images/components/swing_button.png)
+![SWING BUTTON](/nextui-guide/images/components/swing_button.png)
 
 ### Vuetify
  - [Vuetify > Components > Buttons](https://vuetifyjs.com/ko/components/buttons)
