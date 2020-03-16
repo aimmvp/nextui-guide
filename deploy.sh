@@ -21,6 +21,6 @@ git commit -m 'deploy with vuepress'
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 # git push -f <뷰 프레스를 위해 생성한 깃헙 리포지토리의 클론 주소> master:gh-pages
-git push -f https://aimmvp.github.io/nextui-guide master:gh-pages
+git push -f https://github.com/aimmvp/nextui-guide.git master:gh-pages
 
-cd -#
+# cd -#
