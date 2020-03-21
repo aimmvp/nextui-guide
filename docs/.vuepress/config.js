@@ -18,6 +18,10 @@ module.exports = {
         ],
         // displayAllHeaders: true,     // Display Header LInks of All Pages
         lastUpdated: 'Last Upadted',
+        
         // sidebarDepth: 2,
+    },
+    markdown: {
+        lineNumbers: true
     }
 }
